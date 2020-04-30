@@ -22,7 +22,7 @@
         "gulp": "^4.0.2",
         "gulp-rename": "^1.4.0",
         "gulp-zip": "^5.0.0",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "laravel-mix": "^4.0.16",
         "lodash": "^4.17.5",
         "popper.js": "^1.15.0",
